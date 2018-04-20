@@ -25,13 +25,13 @@ This work was made using Visual Code (1.22.2) in a Anaconda (1.8.3) environment.
 
 * SK-VIDEO 1.1.10
 * Numpy 1.14.2
-* matplotlib
-* seaborn as sns
-* moviepy
+* matplotlib 2.2.2
+* seaborn 0.8.1
+* moviepy 0.2.3.2
 
 ### Files
 
-Right now they are hardcoded and needs to have the exact leght.
+Right now they are hardcoded and needs to have the exact leght in frames and audio sync before being used as input.
 
 * `dataset/david/`
     * david_1.mp4
